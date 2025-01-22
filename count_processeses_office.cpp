@@ -29,6 +29,6 @@ int main() {
     //WINWORD.EXE - Word
     //EXCEL.EXE -  Excel
     //POWERPNT.EXE -  PowerPoint
-    check_office_process("threads.cpp");
+    check_office_process("WINWORD.EXE");
     return 0;
 }
